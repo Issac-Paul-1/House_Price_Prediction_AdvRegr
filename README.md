@@ -45,9 +45,13 @@
 
 >LASSO Regularization the TOP 5 Predicted variables
 
->GrLivArea
->OverallQual
->YearBuilt
->BsmtQual_Ex
->BsmtExposure_Gd
+>1.GrLivArea
+
+>2.OverallQual
+
+>3.YearBuilt
+
+>4.BsmtQual_Ex
+
+>5.BsmtExposure_Gd
 
